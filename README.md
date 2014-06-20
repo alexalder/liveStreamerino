@@ -26,5 +26,6 @@ Source files can be found in the .src folder
 Screenshots
 --------
 
+![Screenshot](https://farm4.staticflickr.com/3917/14489433473_69850db261.jpg)
 ![Screenshot](https://farm3.staticflickr.com/2929/14467959542_bdc18c1d96.jpg)
-![Screenshot](https://farm3.staticflickr.com/2929/14467959542_bdc18c1d96.jpg)
+
