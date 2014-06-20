@@ -1,6 +1,6 @@
 liveStreamerino
 ===============
-![Screenshot](https://www.flickr.com/photos/120839904@N07/14467939372/)
+![Screenshot](https://farm4.staticflickr.com/3845/14467939372_2b5f681598.jpg)
 
 GUI for Livestreamer
 
