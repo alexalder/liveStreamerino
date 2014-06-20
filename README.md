@@ -22,3 +22,9 @@ Download
 
 If you want to run the software just download the compiled liveStreamerino.jar (plus the images if you want).
 Source files can be found in the .src folder
+
+Screenshots
+--------
+
+![Screenshot](https://farm3.staticflickr.com/2929/14467959542_bdc18c1d96.jpg)
+![Screenshot](https://farm3.staticflickr.com/2929/14467959542_bdc18c1d96.jpg)
